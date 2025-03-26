@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Diego Ignacio Espinoza Núñez
+## Hi there 👋I'm Diego Ignacio Espinoza Núñez
 
 I am a master's student in data science at the university of chile. I live in Santiago de Chile and currently I work doing private lessons of calculus, algebra, mathematics in general and physics to students of elementary, high school and even university.
 
@@ -23,3 +23,4 @@ I am a master's student in data science at the university of chile. I live in Sa
 
 ## Others
 [![My Skills](https://skillicons.dev/icons?i=windows,vscode)](https://skillicons.dev)
+
