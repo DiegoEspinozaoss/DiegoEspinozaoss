@@ -16,5 +16,10 @@ I am a master's student in data science at the university of chile. I live in Sa
 [![My Skills](https://skillicons.dev/icons?i=python,js,html)](https://skillicons.dev)
 
 ## Data Science and Machine Learning Frameworks/libraries:
-[![My Skills](https://skillicons.dev/icons?i=numpy, pandas, plotly, scickit learn, pytorch, postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,git,sklearn,pytorch,postgres)](https://skillicons.dev)
 
+## Enviroments, Containers, Deploy, CI, etc.
+[![My Skills](https://skillicons.dev/icons?i=anaconda,github)](https://skillicons.dev)
+
+## Others
+[![My Skills](https://skillicons.dev/icons?i=windows,vscode)](https://skillicons.dev)
