@@ -13,12 +13,7 @@ I am a master's student in data science at the university of chile. I live in Sa
 
 ---
 ## Programming Languages:
-<p align="center">
-  <a href="https://skillicons.dev">
-    [![My Skills](https://skillicons.dev/icons?i=python,js,html)](https://skillicons.dev)
-  </a>
-</p>
-
+[![My Skills](https://skillicons.dev/icons?i=python,js,html)](https://skillicons.dev)
 
 ## Data Science and Machine Learning Frameworks/libraries:
 [![My Skills](https://skillicons.dev/icons?i=discord,git,sklearn,pytorch,postgres)](https://skillicons.dev)
