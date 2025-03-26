@@ -12,6 +12,6 @@ I am a master's student in data science at the university of chile. I live in Sa
 - I am a very active person.
 
 ---
-## Programming Languages used by me:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## Programming Languages:
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
