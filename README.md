@@ -15,3 +15,6 @@ I am a master's student in data science at the university of chile. I live in Sa
 ## Programming Languages:
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
+## Data Science and Machine Learning Frameworks/libraries:
+[![My Skills](https://skillicons.dev/icons?i=numpy, pandas, plotly, scickit learn, pytorch, postgresql)](https://skillicons.dev)
+
