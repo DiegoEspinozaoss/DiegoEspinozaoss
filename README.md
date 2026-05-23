@@ -17,7 +17,7 @@ I also currently work at a company where I build automations for email sending w
 ## Tools and Technologies
 
 ### Programming
-[![Programming](https://skillicons.dev/icons?i=python,bash,html)](https://skillicons.dev)
+[![Programming](https://skillicons.dev/icons?i=python,bash)](https://skillicons.dev)
 ![antigravity](https://img.shields.io/badge/antigravity-python-111827?style=flat)
 
 ### Deep Learning / Training
