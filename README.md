@@ -21,7 +21,7 @@ I also currently work at a company where I build automations for email sending w
 ### Deep Learning / Training
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Lightning](https://img.shields.io/badge/Lightning-792EE5?style=flat&logo=pytorchlightning&logoColor=white) ![TorchMetrics](https://img.shields.io/badge/TorchMetrics-EE4C2C?style=flat) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 
-### Data Science Libraries (used in this repository)
+### Data Science Libraries
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat) ![Seaborn](https://img.shields.io/badge/Seaborn-4C9A8A?style=flat) ![h5py](https://img.shields.io/badge/h5py-0A4D68?style=flat) ![UMAP](https://img.shields.io/badge/UMAP-Latent%20Visualization-1F2937?style=flat) ![Astropy](https://img.shields.io/badge/Astropy-Astronomy-4B5563?style=flat)
 
 ### Experiment / Config / Workflow
