@@ -10,7 +10,6 @@ I also currently work at a company where I build automations for email sending w
 
 - I like machine learning, astronomy, and scientific computing.
 - I am currently pursuing a Master's degree in Data Science at Universidad de Chile.
-- I am researching High-Mass X-ray binary systems.
 - I enjoy sports, especially football and gym training.
 
 ---
